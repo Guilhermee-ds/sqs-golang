@@ -1,2 +1,1 @@
 # sqs-golang
-# sqs-golang
